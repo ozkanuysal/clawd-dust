@@ -1,0 +1,5 @@
+{
+  "name": "clawd-dust",
+  "owner": { "name": "ozkanuysal" },
+  "plugins": [{ "name": "clawd-dust", "source": "./plugin", "description": "Claude çalışırken istemin üstünde çöl temalı piksel sahne: Clawd tarar, ateş eder, C4 kurar" }]
+}
